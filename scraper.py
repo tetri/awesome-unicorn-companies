@@ -19,4 +19,9 @@ for tr in trs:
     industry = tds[5].text
     select_investors = tds[6].text
     
-    print(f'* {company} {valuation}B {date_joined} {city} @ {country} {industry} {select_investors}')
+    print(f'* {company} - ')
+    print(f'  * Valuation: **{valuation}B**')
+    print(f'  * Date joined: **{date_joined}**')
+    print(f'  * Location: **{city} @ {country}**')
+    print(f'  * Industry: **{industry}**')
+    print(f'  * Select investors: **{select_investors}**')
