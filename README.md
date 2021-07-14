@@ -6,487 +6,487 @@ A *unicorn company*, or *unicorn startup*, is a private company with a valuation
 
 # List of Unicorn Companies
 
-* Bytedance - 
+* **Bytedance** - [bytedance.com](https://bytedance.com) - ByteDance offers content platforms that enable people to enjoy content powered by AI technology. ByteDance operates a dozen products accessible all over the world including TikTok, Vigo, Toutiao, TopBuzz and more.
   * Valuation: **$140B**
   * Date joined: **4/7/2017**
   * Location: **Beijing @ China**
   * Industry: **Artificial intelligence**
   * Select investors: **Sequoia Capital China, SIG Asia Investments, Sina Weibo, Softbank Group**
-* Stripe - 
+* **Stripe** - [stripe.com](https://stripe.com) - Stripe is an online-based, payment processing platform that gives online merchants the ability to securely accept credit card payments through the use of custom-built forms.
   * Valuation: **$95B**
   * Date joined: **1/23/2014**
   * Location: **San Francisco @ United States**
   * Industry: **Fintech**
   * Select investors: **Khosla Ventures, LowercaseCapital, capitalG**
-* SpaceX - 
+* **SpaceX** - [spacex.com](https://spacex.com) - SpaceX designs, manufactures and launches advanced rockets and spacecraft. SpaceX also develops a low latency, broadband internet system to meet the needs of consumers across the globe, known as Starlink.
   * Valuation: **$74B**
   * Date joined: **12/1/2012**
   * Location: **Hawthorne @ United States**
   * Industry: **Other**
   * Select investors: **Founders Fund, Draper Fisher Jurvetson, Rothenberg Ventures**
-* Klarna - 
+* **Klarna** - [klarna.com](https://klarna.com) - Klarna offers safe and easy-to-use payment solutions to e-stores. At the core of Klarna's services is the concept of after-delivery payment, allowing buyers to receive ordered goods before any payment is due. At the same time, Klarna assumes all credit and fraud risks for e-stores.
   * Valuation: **$45.6B**
   * Date joined: **12/12/2011**
   * Location: **Stockholm @ Sweden**
   * Industry: **Fintech**
   * Select investors: **Institutional Venture Partners, Sequoia Capital, General Atlantic**
-* Instacart - 
+* **Instacart** - [instacart.com](https://instacart.com) - Instacart is a mobile app that allows users to shop for groceries directly from a phone. Instacart can deliver groceries from multiple local stores within an hour and is often less expensive for consumers than a personal, time-consuming trip to the grocery store. Instacart utilizes a crowdsourced model of Personal Shoppers who provide their own transportation and smartphones to shop and deliver groceries to customers.
   * Valuation: **$39B**
   * Date joined: **12/30/2014**
   * Location: **San Francisco @ United States**
   * Industry: **Supply chain, logistics, & delivery**
   * Select investors: **Khosla Ventures, Kleiner Perkins Caufield & Byers, Collaborative Fund**
-* Nubank - 
+* **Nubank** - [nubank.com.br](https://nubank.com.br) - Nubank is a technology-driven financial services startup. Nubank works to redefine the standard in financial services in Brazil by offering a no-fee credit card that is managed through a mobile app, as well as a digital account (NuConta).
   * Valuation: **$30B**
   * Date joined: **3/1/2018**
   * Location: **Sao Paulo @ Brazil**
   * Industry: **Fintech**
   * Select investors: **Sequoia Capital, Redpoint e.ventures, Kaszek Ventures**
-* Epic Games - 
+* **Epic Games** - [epicgames.com](https://epicgames.com) - Epic Games is an American video game development company best known for its successful Gears of War series of games, as well as its Unreal Engine technology. Its subsidiaries are Chair Entertainment, People Can Fly, and Titan Studios.
   * Valuation: **$28.7B**
   * Date joined: **10/26/2018**
   * Location: **Cary @ United States**
   * Industry: **Other**
   * Select investors: **Tencent Holdings, KKR, Smash Ventures**
-* Databricks - 
+* **Databricks** - [databricks.com](https://databricks.com) - Databricks seeks to empower anyone to easily build and deploy advanced analytics solutions. Databricks provides a just-in-time data platform, to simplify data integration, real-time experimentation, and robust deployment of production applications.
   * Valuation: **$28B**
   * Date joined: **2/5/2019**
   * Location: **San Francisco @ United States**
   * Industry: **Data management & analytics**
   * Select investors: **Andreessen Horowitz, New Enterprise Associates, Battery Ventures**
-* Rivian - 
+* **Rivian** - [rivian.com](https://rivian.com) - Rivian develops an integrated portfolio of electric vehicles, technologies and services with a focus on developing an all-electric pickup truck.
   * Valuation: **$27.6B**
   * Date joined: **9/10/2019**
   * Location: **Plymouth @ United States**
   * Industry: **Auto & transportation**
   * Select investors: **Amazon, Ford Motor Company, Cox Automotive**
-* BYJU's - 
+* **BYJU's** - [byjus.com](https://byjus.com) - BYJU's offers a K-12 learning app with learning programs for students in classes 4-12 (K-12) and preparation for competitive exams such as JEE, NEET, CAT, IAS, GRE, and GMAT.
   * Valuation: **$16.5B**
   * Date joined: **7/25/2017**
   * Location: **Bengaluru @ India**
   * Industry: **Edtech**
   * Select investors: **Tencent Holdings, Lightspeed India Partners, Sequoia Capital India**
-* One97 Communications - 
+* **One97 Communications** - [one97.com](https://one97.com) - One97 Communications is a mobile internet company. Paytm, One97's flagship brand, is a digital goods and mobile commerce platform. Paytm is also a payment solutions provider to eCommerce merchants using its RBI-approved semi-closed wallet. One97 also invests in early-stage mobile companies through the One97 Mobility Fund (OMF).
   * Valuation: **$16B**
   * Date joined: **5/12/2015**
   * Location: **Noida @ India**
   * Industry: **Fintech**
   * Select investors: **Intel Capital, Sapphire Ventures, Alibaba Group**
-* Yuanfudao - 
+* **Yuanfudao** - [yuanfudao.com](https://yuanfudao.com) - Yuanfudao provides students with solutions on doing exercises on smart phones and Pads. The platform optimizes the students' experience in doing exercises by introducing an intelligent algorithm and huge data mining technology. Yuanfudao is helpful to improve the efficiency of doing exercises, as it is capable of designing customized exercises for different students.
   * Valuation: **$15.5B**
   * Date joined: **5/31/2017**
   * Location: **Beijing @ China**
   * Industry: **Edtech**
   * Select investors: **Tencent Holdings, Warbug Pincus, IDG Capital**
-* DJI Innovations - 
+* **DJI Innovations** - [dji.com](https://dji.com) - DJI Innovations develops and manufactures aerial robotics technology for commercial and recreational use. The company is dedicated to making aerial photography, filmmaking, and data collection more reliable and accessible. DJI's global operations currently span North America, Europe, and Asia, and its products and solutions have been chosen by consumers in over 100 countries; for applications in film, construction, inspection, nature conservation, fire fighting, agriculture, and many other industries.
   * Valuation: **$15B**
   * Date joined: **1/23/2015**
   * Location: **Shenzhen @ China**
   * Industry: **Hardware**
   * Select investors: **Accel Partners, Sequoia Capital**
-* Canva - 
+* **Canva** - [canva.com](https://canva.com) - Canva is a web-based, collaborative design tool that enables amateurs to easily create quality designs. Canva gives users everything they need to create designs for web or print: blog graphics, presentations, Facebook covers, flyers, posters, invitations, and more.
   * Valuation: **$15B**
   * Date joined: **1/8/2018**
   * Location: **Surry Hills @ Australia**
   * Industry: **Internet software & services**
   * Select investors: **Sequoia Capital China, Blackbird Ventures, Matrix Partners**
-* SHEIN - 
+* **SHEIN** - [shein.com](https://shein.com) - SHEIN is an international B2C fast fashion e-commerce platform. The company mainly focuses on women's wear, but it also offers men's apparel, children's clothes, accessories, shoes, bags, and other fashion items. SHEIN mainly targets Europe, America, Australia, and the Middle East along with other consumer markets.
   * Valuation: **$15B**
   * Date joined: **7/3/2018**
   * Location: **Shenzhen @ China**
   * Industry: **E-commerce & direct-to-consumer**
   * Select investors: **Tiger Global Management, Sequoia Capital China, Shunwei Capital Partners**
-* Checkout.com - 
+* **Checkout.com** - [checkout.com](https://checkout.com) - Checkout.com helps companies accept more payments around the world through one integration. Its unified global payment processing platform features in-country acquiring, relevant payment methods, feature parity across geographies, fraud filters, and reporting features, via one API.
   * Valuation: **$15B**
   * Date joined: **5/2/2019**
   * Location: **London @ United Kingdom**
   * Industry: **Fintech**
   * Select investors: **Tiger Global Management, Insight Partners, DST Global**
-* Chime - 
+* **Chime** - [chime.com](https://chime.com) - Chime offers banking services that are accessible via its mobile banking application. Through the application, the company seeks to reduce fees and automates savings. Chime members' funds are FDIC insured through its partner, The Bancorp Bank, Member FDIC.
   * Valuation: **$14.5B**
   * Date joined: **3/5/2019**
   * Location: **San Francisco @ United States**
   * Industry: **Fintech**
   * Select investors: **Forerunner Ventures, Crosslink Capital, Homebrew**
-* Grab - 
+* **Grab** - [grab.com](https://grab.com) - Grab is an on-demand transportation and mobile payments platform, offering private car, motorbike, taxi, and carpooling services in Southeast Asia. The platform features GrabPay Credits, a cashless top-up payment option; the 'Share your Ride' function, which allows users to share their journey through social media or messaging apps with friends and family, providing extra security for passengers; and the ability to rate drivers and view their information.
   * Valuation: **$14.3B**
   * Date joined: **12/4/2014**
   * Location: **Singapore @ Singapore**
   * Industry: **Auto & transportation**
   * Select investors: **GGV Capital, Vertex Venture Holdings, Softbank Group**
-* Plaid Technologies - 
+* **Plaid Technologies** - [plaid.com](https://plaid.com) - Plaid is a provider of API that power developer of financial services applications and help them connect with user bank accounts.
   * Valuation: **$13.4B**
   * Date joined: **12/11/2018**
   * Location: **San Francisco @ United States**
   * Industry: **Fintech**
   * Select investors: **New Enterprise Associates, Spar Capital, Index Ventures**
-* Fanatics - 
+* **Fanatics** - [fanatics.com](https://fanatics.com) - Fanatics provides e-commerce, merchandising, marketing and fulfillment services for professional sports leagues and teams, collegiate athletic programs and conferences, and other major sports properties. Offering broad assortments online consisting of officially licensed items, Fanatics leverages both its large network of partners and its own collection of brands, including Fanatics (www.fanatics.com) and FansEdge (www.fansedge.com), to distribute goods to consumers all over the world.
   * Valuation: **$12.8B**
   * Date joined: **6/6/2012**
   * Location: **Jacksonville @ United States**
   * Industry: **E-commerce & direct-to-consumer**
   * Select investors: **SoftBank Group, Andreessen Horowitz, Temasek Holdings**
-* SenseTime - 
+* **SenseTime** - [sensetime.com](https://sensetime.com) - SenseTime is a computer vision and AI company that provides image, object, text, face recognition, medical image analysis, video analysis, autonomous driving, and remote sensing to companies in education, healthcare, smart city, automotive, communications, and entertainment.
   * Valuation: **$12B**
   * Date joined: **7/11/2017**
   * Location: **Shanghai @ China**
   * Industry: **Artificial intelligence**
   * Select investors: **Star VC, IDG Capital, Infore Capital, Alibaba Group**
-* JUUL Labs - 
+* **JUUL Labs** - [juul.com](https://juul.com) - JUUL Labs was founded to provide smokers worldwide with an alternative to cigarettes that enables them to permanently switch. The company sells nicotine vaporizer designed for adult smokers.
   * Valuation: **$12B**
   * Date joined: **12/20/2017**
   * Location: **San Francisco @ United States**
   * Industry: **Consumer & retail**
   * Select investors: **Tiger Global Management**
-* Bitmain Technologies - 
+* **Bitmain Technologies** - 
   * Valuation: **$12B**
   * Date joined: **7/6/2018**
   * Location: **Beijing @ China**
   * Industry: **Hardware**
   * Select investors: **Coatue Management, Sequoia Capital China, IDG Capital**
-* Biosplice Therapeutics - 
+* **Biosplice Therapeutics** - [biosplice.com](https://biosplice.com) - Biosplice Therapeutics is a clinical-stage biotechnology company pioneering therapeutics based on alternative pre-mRNA splicing for major diseases. Its scientific platform is based on biological discoveries that govern tissue specialization and enable it to selectively eliminate harmful proteins using small molecules. From the company's foundational discoveries in Wnt pathway modulation to unlocking the broad therapeutic potential of the CLK/DYRK target class, its focus is on the realization of new, potentially curative therapies for patients by selectively reprogramming cellular behavior.
   * Valuation: **$12B**
   * Date joined: **8/6/2018**
   * Location: **San Diego @ United States**
   * Industry: **Health**
   * Select investors: **Vickers Venture Partners, IKEA GreenTech**
-* Robinhood - 
+* **Robinhood** - [robinhood.com](https://robinhood.com) - Robinhood allows users to invest in United States' stocks and ETFs, commission-free, and Robinhood Gold; its paid service for active investors, supports margin and extended hours trading.
   * Valuation: **$11.7B**
   * Date joined: **4/26/2017**
   * Location: **Menlo Park @ United States**
   * Industry: **Fintech**
   * Select investors: **Google Ventures, Andreessen Horowitz, DST Global**
-* ZongMu Technology - 
+* **ZongMu Technology** - [zongmutech.com](https://zongmutech.com) - ZongMu Technology develops an advanced driver assistance system, including 2D and 3D panoramic vision systems, self-parking solutions, and driving recording systems.
   * Valuation: **$11.4B**
   * Date joined: **6/3/2021**
   * Location: **Shanghai @ China**
   * Industry: **Auto & transportation**
   * Select investors: **LTW Capital, Legend Capital, Qualcomm Ventures**
-* Global Switch - 
+* **Global Switch** - [globalswitch.com](https://globalswitch.com) - Global Switch has built a reputation for creating data centers that set new standards in scale, resilience and connectivity. The company owns and operates ten data centers centrally located in Tier 1 cities across Europe and Asia-Pacific, offering a total of 300,000 sq m of world class technical space with further developments underway. Its network is home to some of the most forward-thinking public and private organizations of all sizes, who rely on us to house their mission critical IT infrastructure and connect them seamlessly to a diverse choice of telecoms, internet and cloud providers.
   * Valuation: **$11.1B**
   * Date joined: **12/22/2016**
   * Location: **London @ United Kingdom**
   * Industry: **Hardware**
   * Select investors: **Aviation Industry Corporation of China, Essence Financial, Jiangsu Sha Steel Group**
-* Celonis - 
+* **Celonis** - [celonis.com](https://celonis.com) - Celonis offers an Intelligent Business System based on process mining technology. Celonis helps organizations understand and improve operational process flows for business transformation.
   * Valuation: **$11B**
   * Date joined: **6/26/2018**
   * Location: **Munich @ Germany**
   * Industry: **Data management & analytics**
   * Select investors: **Accel, 83North**
-* Weilong - 
+* **Weilong** - [weilongshipin.net.cn](https://weilongshipin.net.cn) - Weilong is a company focusing on the research and development, production, processing, and marketing of snack food.
   * Valuation: **$10.88B**
   * Date joined: **5/8/2021**
   * Location: **Luohe @ China**
   * Industry: **Consumer & retail**
   * Select investors: **Tencent Holdings, Hillhouse Capital Management, Yunfeng Capital**
-* Aurora - 
+* **Aurora** - [aurora.tech](https://aurora.tech) - Aurora manufactures self driving cars. The company designs and develops software and hardware for engineering and machine learning approaches. Aurora serves customers worldwide.
   * Valuation: **$10B**
   * Date joined: **2/7/2019**
   * Location: **Mountain View @ United States**
   * Industry: **Auto & transportation**
   * Select investors: **Index Ventures, Greylock Partners, Lightspeed Venture Partners**
-* Lalamove - 
+* **Lalamove** - [lalamove.com](https://lalamove.com) - Lalamove operates a mobile and desktop last-minute intra-city delivery technology platform that connects customers with professional van, motorcycle, lorry and truck drivers in Hong Kong, Singapore, Bangkok, Taipei, Guangzhou, Shenzhen, Foshan, Dongguan, Shanghai, Chongqing, etc. Features include instant order matching, GPS vehicle tracking, 24/7 services and drivers rating.
   * Valuation: **$10B**
   * Date joined: **2/21/2019**
   * Location: **Cheung Sha Wan @ Hong Kong**
   * Industry: **Supply chain, logistics, & delivery**
   * Select investors: **MindWorks Ventures, Shunwei Capital Partners, Xiang He Capital**
-* Ripple - 
+* **Ripple** - [ripple.com](https://ripple.com) - Ripple is an Internet protocol that interconnects all the world's disparate financial systems to power the secure transfer of funds in any currency in real time. Ripple provides a frictionless experience to send money globally using the power of blockchain.
   * Valuation: **$10B**
   * Date joined: **12/20/2019**
   * Location: **San Francisco @ United States**
   * Industry: **Fintech**
   * Select investors: **IDG Capital, Venture51, Lightspeed Venture Partners**
-* Figma - 
+* **Figma** - [figma.com](https://figma.com) - Figma provides a cloud-based screen design tool for design, prototyping and collaboration, simplifying collaboration across the entire design process for companies and users, including designers, developers, product manager, marketers and others.
   * Valuation: **$10B**
   * Date joined: **4/30/2020**
   * Location: **San Francisco @ United States**
   * Industry: **Internet software & services**
   * Select investors: **Index Ventures, Greylock Partners, Kleiner Perkins Caufield & Byers**
-* OutSystems - 
+* **OutSystems** - [outsystems.com](https://outsystems.com) - OutSystems develops and markets a solution for application management and development that accelerates applications' delivery and fosters their continuous adaptation to new business requirements. The OutSystems Platform lets users create, deploy, change, and manage custom mobile and web applications that are delivered across all devices.
   * Valuation: **$9.5B**
   * Date joined: **6/5/2018**
   * Location: **Boston @ United States**
   * Industry: **Internet software & services**
   * Select investors: **KKR, ES Ventures, North Bridge Growth Equity**
-* ServiceTitan - 
+* **ServiceTitan** - [servicetitan.com](https://servicetitan.com) - ServiceTitan is a mobile, cloud-based software platform that helps home service companies streamline operations, improve customer service, and grow their business. ServiceTitan's end-to-end solution for the residential home services industry includes CRM, intelligent dispatch, comprehensive reporting, marketing management tools, mobile solution for field techs, and QuickBooks integration. ServiceTitan is used by plumbing, HVAC, and electrical companies.
   * Valuation: **$9.5B**
   * Date joined: **11/14/2018**
   * Location: **Glendale @ United States**
   * Industry: **Internet software & services**
   * Select investors: **Bessemer Venture Partners, ICONIQ Capital, Battery Ventures**
-* Klaviyo - 
+* **Klaviyo** - [klaviyo.com](https://klaviyo.com) - Klaviyo helps growth-focused ecommerce brands drive more sales with super-targeted, highly relevant email, Facebook and Instagram marketing campaigns.
   * Valuation: **$9.2B**
   * Date joined: **11/17/2020**
   * Location: **Boston @ United States**
   * Industry: **Internet software & services**
   * Select investors: **Summit Partners, Accel, Astral Capital**
-* Roivant Sciences - 
+* **Roivant Sciences** - [roivant.com](https://roivant.com) - Roivant Sciences focuses on developing and commercializing therapies through wholly- or majority-owned subsidiary companies including, Axovant, Myovant, Dermavant, Enzyvant, and Urovant.
   * Valuation: **$9.09B**
   * Date joined: **8/9/2017**
   * Location: **New York @ United States**
   * Industry: **Health**
   * Select investors: **SoftBankGroup, Founders Fund**
-* Northvolt - 
+* **Northvolt** - [northvolt.com](https://northvolt.com) - Northvolt is a supplier of battery cells and systems and is building a large-scale lithium-ion battery factory that will support and accelerate the transition to sustainable energy production and consumption.
   * Valuation: **$9.08B**
   * Date joined: **6/12/2019**
   * Location: **Stockholm @ Sweden**
   * Industry: **Other**
   * Select investors: **Vattenfall, Volkswagen Group, Goldman Sachs**
-* Tanium - 
+* **Tanium** - [tanium.com](https://tanium.com) - Tanium gives enterprises and government organizations the ability to secure, control, and manage millions of endpoints across the enterprise within seconds. Serving as the ôcentral nervous systemö for enterprises, Tanium empowers security and IT operations teams to ask questions about the state of endpoints across the enterprise, retrieve data on their current and historical state, and execute change as necessary.
   * Valuation: **$9B**
   * Date joined: **3/31/2015**
   * Location: **Kirkland @ United States**
   * Industry: **Cybersecurity**
   * Select investors: **Andreessen Horowitz, Nor-Cal Invest, TPG Growth**
-* Chehaoduo - 
+* **Chehaoduo** - [guazi.com](https://guazi.com) - Chehaoduo is the operator of Guazi, an online C2C used-car trading platform, and Maodou, a new car eCommerce platform.
   * Valuation: **$9B**
   * Date joined: **3/12/2016**
   * Location: **Beijing @ China**
   * Industry: **E-commerce & direct-to-consumer**
   * Select investors: **Sequoia Capital China, GX Capital**
-* OYO Rooms - 
+* **OYO Rooms** - [oyorooms.com](https://oyorooms.com) - OYO Rooms operates a virtual hospitality brand in India by aggregating hotels/guesthouses in the economy segment, making inventory discoverable and bookable online, and providing a standardized and trusted experience to travelers. By running a managed marketplace of properties under its own brand, Oyo matches the supply of economy rooms in India with online/mobile demand.
   * Valuation: **$9B**
   * Date joined: **9/25/2018**
   * Location: **Gurugram @ India**
   * Industry: **Travel**
   * Select investors: **SoftBank Group, Sequoia Capital India,Lightspeed India Partners**
-* GoPuff - 
+* **GoPuff** - [gopuff.com](https://gopuff.com) - goPuff is an instant needs delivery service. The goPuff app allows customers to choose from thousands of products like over-the-counter medications, groceries, snacks, drinks, and more. goPuff delivers directly from its own facilities. This vertically integrated supply model is what makes goPuff so fast. goPuffÆs age 21+ alcohol delivery service offers beer, wine, and other popular alcoholic beverages.
   * Valuation: **$8.9B**
   * Date joined: **10/8/2020**
   * Location: **Philadelphia @ United States**
   * Industry: **E-commerce & direct-to-consumer**
   * Select investors: **Accel, Softbank Group, Anthos Capital**
-* Tempus - 
+* **Tempus** - [tempus.com](https://tempus.com) - Tempus builds a library of molecular and clinical data as well as a corresponding operating system for data accessibility and use. The company enables physicians to deliver personalized cancer care for patients through its interactive analytical and machine learning platform. It provides genomic sequencing services and molecular and therapeutic data analysis to empower physicians to make real-time, data-driven decisions.
   * Valuation: **$8.1B**
   * Date joined: **3/21/2018**
   * Location: **Chicago @ United States**
   * Industry: **Health**
   * Select investors: **New Enterprise Associates, T. Rowe Associates, Lightbank**
-* Xingsheng Selected - 
+* **Xingsheng Selected** - [xsyxsc.com](https://xsyxsc.com) - Xingsheng Selected, also Xingsheng Youxuan, is a fresh produce chain that operates small stores in neighborhoods. The company operates a group-buying community e-commerce platform under Furong Xingsheng.
   * Valuation: **$8B**
   * Date joined: **7/22/2020**
   * Location: **Changsha @ China**
   * Industry: **E-commerce & direct-to-consumer**
   * Select investors: **KKR, Tencent Holdings, Sequoia Capital China**
-* Caris Life Sciences - 
+* **Caris Life Sciences** - [carislifesciences.com](https://carislifesciences.com) - Caris Life Sciences is an Irving, Texas-based provider of molecular science that assess DNA, RNA and proteins to reveal a molecular blueprint that allows physicians and cancer patients to make precise and personalized treatment decisions.
   * Valuation: **$7.83B**
   * Date joined: **5/17/2021**
   * Location: **Irving @ United States**
   * Industry: **Health**
   * Select investors: **Sixth Street Partners, OrbiMed Advisors, Highland Capital Management**
-* J&T Express - 
+* **J&T Express** - [jet.co.id](https://jet.co.id) - J&T Express is an express delivery company based in Indonesia.
   * Valuation: **$7.8B**
   * Date joined: **4/7/2021**
   * Location: **Jakarta @ Indonesia**
   * Industry: **Supply chain, logistics, & delivery**
   * Select investors: **Hillhouse Capital Management, Boyu Capital, Sequoia Capital China**
-* Getir - 
+* **Getir** - [getir.com](https://getir.com) - Getir is a technology company that joins the worlds of mobile technology and logistics, offering delivery of goods in urban areas.
   * Valuation: **$7.5B**
   * Date joined: **3/26/2021**
   * Location: **Istanbul @ Turkey**
   * Industry: **E-commerce & direct-to-consumer**
   * Select investors: **Tiger Global Management, Sequoia Capital, Revo Capital**
-* Netskope - 
+* **Netskope** - [netskope.com](https://netskope.com) - Netskope's security cloud provides visibility and real-time data and threat protection when accessing cloud services, websites, and private apps from anywhere, on any device. Netskope understands the cloud and takes a data-centric approach that empowers security teams with the right balance of protection and speed they need to secure their digital transformation journey.
   * Valuation: **$7.5B**
   * Date joined: **11/13/2018**
   * Location: **Santa Clara @ United States**
   * Industry: **Cybersecurity**
   * Select investors: **Lightspeed Venture Partners, Social Capital, Accel**
-* Brex - 
+* **Brex** - [brex.com](https://brex.com) - Brex is a B2B financial product provider that offers a corporate credit card for technology companies.
   * Valuation: **$7.4B**
   * Date joined: **10/5/2018**
   * Location: **San Francisco @ United States**
   * Industry: **Fintech**
   * Select investors: **DST Global, Ribbit Capital, Greenoaks Capital Management**
-* Toss - 
+* **Toss** - [toss.im](https://toss.im) - Toss, created by Viva Republica, is a mobile finance app that provides P2P money transfer services. The platform offers a range of financial services in one app, including a financial dashboard, credit score management, customized loan/insurance plans, as well as multiple investment services.
   * Valuation: **$7.4B**
   * Date joined: **12/9/2018**
   * Location: **Seoul @ South Korea**
   * Industry: **Fintech**
   * Select investors: **Bessemer Venture Partners, Qualcomm Ventures, Kleiner Perkins Caufield & Byers**
-* Scale AI - 
+* **Scale AI** - [scale.com](https://scale.com) - Scale AI is an API for human labor that allows developers to enter requests for humans to complete menial, repetitive tasks that cannot be done by a computer. With Scale, developers can get information screened for duplicates and mismatches and have user-generated content moderated and categorized.
   * Valuation: **$7.3B**
   * Date joined: **8/5/2019**
   * Location: **San Francisco @ United States**
   * Industry: **Artificial intelligence**
   * Select investors: **Accel, Y Combinator, Index Ventures**
-* Argo AI - 
+* **Argo AI** - [argo.ai](https://argo.ai) - Argo AI is an artificial intelligence company that is developing machine-learning software for autonomous vehicles.
   * Valuation: **$7.25B**
   * Date joined: **7/12/2019**
   * Location: **Pittsburgh @ United States**
   * Industry: **Artificial intelligence**
   * Select investors: **Volkswagen Group, Ford Autonomous Vehicles**
-* Gong - 
+* **Gong** - [gongsters.com](https://gongsters.com) - Provider of a topic-based news platform. The company offers an application that allows user to browse trending stories through bite-sized summary cards or spice them up by adding text, stickers, or memes and sharing with others. The app is based on machine learning technology.
   * Valuation: **$7.25B**
   * Date joined: **8/12/2020**
   * Location: **Palo Alto @ United States**
   * Industry: **Artificial intelligence**
   * Select investors: **Norwest Venture Partners, Next World Capital, Wing Venture Capital**
-* We Doctor - 
+* **We Doctor** - [guahao.com](https://guahao.com) - We Doctor is a China-based developer of online and mobile healthcare solutions. The company operates Weiyi, a pair of mobile apps for connecting patients and doctors.
   * Valuation: **$7B**
   * Date joined: **9/22/2015**
   * Location: **Hangzhou @ China**
   * Industry: **Health**
   * Select investors: **Tencent, Morningside Group**
-* Discord - 
+* **Discord** - [discord.com](https://discord.com) - Discord is an all-in-one voice, video and text chat app designed specifically for gamers. The app aims to be free, secure, and works on both desktop and phone.
   * Valuation: **$7B**
   * Date joined: **4/20/2018**
   * Location: **San Francisco @ United States**
   * Industry: **Internet software & services**
   * Select investors: **Benchmark, Greylock Partners, Tencent Holdings**
-* Faire - 
+* **Faire** - [faire.com](https://faire.com) - Faire is a free, AI-powered platform where retailers can find new products for their store. It allows retailers to A/B test merchandise and they are able to return what doesn't sell for free as well.
   * Valuation: **$7B**
   * Date joined: **10/30/2019**
   * Location: **San Francisco @ United States**
   * Industry: **Artificial intelligence**
   * Select investors: **Khosla Ventures, Forerunner Ventures, Sequoia Capital**
-* Automation Anywhere - 
+* **Automation Anywhere** - [automationanywhere.com](https://automationanywhere.com) - Automation Anywhere is a cognitive robotic process automation platform that uses software robots to automate business processes not automated by traditional technology platforms. Its Intelligent Digital Workforce Platform combines cognitive automation and analytics, driving productivity and business process accuracy with near-zero error rates.
   * Valuation: **$6.8B**
   * Date joined: **7/2/2018**
   * Location: **San Jose @ United States**
   * Industry: **Artificial intelligence**
   * Select investors: **General Atlantic, Goldman Sachs, New Enterprise Associates**
-* Ziroom - 
+* **Ziroom** - [ziroom.com](https://ziroom.com) - Ziroom is a rental services company that enables users to rent rooms, apartments, and more online.
   * Valuation: **$6.6B**
   * Date joined: **1/17/2018**
   * Location: **Beijing @ China**
   * Industry: **E-commerce & direct-to-consumer**
   * Select investors: **Sequoia Capital China, Warburg Pincus, General Catalyst**
-* National Stock Exchange of India - 
+* **National Stock Exchange of India** - [nseindia.com](https://nseindia.com) - National Stock Exchange of India is India's largest electronic exchange ranking third globally by number of trades in the equity market.
   * Valuation: **$6.5B**
   * Date joined: **7/1/2020**
   * Location: **Mumbai @ India**
   * Industry: **Fintech**
   * Select investors: **TA Associates, SoftBank Group, GS Growth**
-* Mollie - 
+* **Mollie** - [mollie.com](https://mollie.com) - Mollie builds payment products, commerce solutions, and APIs that let users accept online and mobile payments for small online stores and Fortune 500 companies.
   * Valuation: **$6.5B**
   * Date joined: **9/8/2020**
   * Location: **Amsterdam @ Netherlands**
   * Industry: **Fintech**
   * Select investors: **Technology Crossover Ventures**
-* Ola Cabs - 
+* **Ola Cabs** - [](https://) - ANI Technologies operates a mobile technology platform that integrates city transportation for customers and driver partners in India. Its mobile application allows its customers to book a range of cabs, auto-rickshaws, bikes, and shuttle buses.
   * Valuation: **$6.3B**
   * Date joined: **10/27/2014**
   * Location: **Bengaluru @ India**
   * Industry: **Auto & transportation**
   * Select investors: **Accel Partners, SoftBank Group, Sequoia Capital**
-* Samsara Networks - 
+* **Samsara Networks** - [samsara.com](https://samsara.com) - Samsara provides Industrial IoT solutions to increase the efficiency, safety, and sustainability of the operations that power the economy. Its portfolio of IoT solutions combine hardware, software, and cloud to bring real-time visibility, analytics, and AI to operations. The company's suite of solutions includes vehicle telematics, driver safety, mobile workflow and compliance, asset tracking, and industrial process controls û all in an integrated, open, real-time platform.
   * Valuation: **$6.3B**
   * Date joined: **3/22/2018**
   * Location: **San Francisco @ United States**
   * Industry: **Hardware**
   * Select investors: **Andreessen Horowitz, General Catalyst**
-* Black Unicorn Factory - 
+* **Black Unicorn Factory** - [blackunicornfactorycalifornia.com](https://blackunicornfactorycalifornia.com) - Black Unicorn Factory is a tech startup accelerator program that focuses on transforming African American startups into billion-dollar tech companies ready for stock listings.
   * Valuation: **$6.1B**
   * Date joined: **5/20/2021**
   * Location: **Los Angeles @ United States**
   * Industry: **Other**
   * Select investors: **Barter Ventures**
-* Royole Corporation - 
+* **Royole Corporation** - [royole.com](https://royole.com) - Royole is a Shenzhen-based rollable display developer. The company creates and manufactures human-machine interface technologies and products such as advanced flexible displays, flexible sensors, and smart devices. It also provides IP licenses, services, and solutions for a variety of industries associated with displays and flexible electronics applications.
   * Valuation: **$6B**
   * Date joined: **8/18/2015**
   * Location: **Shenzhen @ China**
   * Industry: **Hardware**
   * Select investors: **Warmsun Holding, IDG Capital Partners**
-* reddit - 
+* **reddit** - [reddit.com](https://reddit.com) - Reddit is an online community where users submit, vote, and comment on content, stories, and discussions. The most popular stories as determined by the community through discussions and voting rise to the top of the site, while less popular stories sink. Anyone can create a community (called a subreddit); each subreddit is independent and moderated by a team of volunteers. reddit is open source, and community members are constantly tinkering and contributing features and translations back to the site.
   * Valuation: **$6B**
   * Date joined: **7/31/2017**
   * Location: **San Francisco @ United States**
   * Industry: **Internet software & services**
   * Select investors: **Y Combinator, Sequoia Capital, Coatue Management**
-* GitLab - 
+* **GitLab** - [gitlab.com](https://gitlab.com) - GitLab is an open core code collaboration platform that provides a complete workflow to create, review, and deploy code simply and effectively. GitLab includes Git repository management, code review, issue tracking, wikis and GitLab CI, a continuous integration and deployment tool.
   * Valuation: **$6B**
   * Date joined: **9/19/2018**
   * Location: **San Francisco @ United States**
   * Industry: **Internet software & services**
   * Select investors: **Google Ventures, ICONIQ Capital, Khosla Ventures**
-* Yuanqi Senlin - 
+* **Yuanqi Senlin** - [yuanqisenlin.com](https://yuanqisenlin.com) - Yuanqi Senlin is a beverage brand based in China. Starting from the concept of "0 sugar, 0 calories, 0 fat" and other healthy concepts, it has now launched a number of beverage products including sugar-free soda sparkling water, burning tea, milk tea, bodybuilding light tea, energy drinks, yogurt, and so on.
   * Valuation: **$6B**
   * Date joined: **3/1/2020**
   * Location: **Beijing @ China**
   * Industry: **Consumer & retail**
   * Select investors: **Sequoia Capital China, Longfor Capitalm, Gaorong Capital**
-* Thrasio - 
+* **Thrasio** - [thrasio.com](https://thrasio.com) - Thrasio is a consumer product company that specializes in acquiring Amazon third-party private-label businesses in a 45-day close process.
   * Valuation: **$6B**
   * Date joined: **7/15/2020**
   * Location: **Walpole @ United States**
   * Industry: **Other**
   * Select investors: **Upper90, RiverPark Ventures, Advent International**
-* Better.com - 
+* **Better.com** - [better.com](https://better.com) - Better.com deconstructed the home-financing ecosystem and replaced it with a digitized process. Better.comÆs platform offers a digital marketplace featuring competitive quotes from an array of insurance providers for seamless purchase of a homeowner's insurance policy and instant access to real estate agents across the country.
   * Valuation: **$6B**
   * Date joined: **11/10/2020**
   * Location: **New York @ United States**
   * Industry: **Fintech**
   * Select investors: **Pine Brook, American Express Ventures, Kleiner Perkins Caufield & Byers**
-* Easyhome - 
+* **Easyhome** - [juranholdings.com](https://juranholdings.com) - Easyhome is a large-scale state-owned share holding enterprise whose major business scope includes providing one-stop services such as decoration design, decoration materials, furniture, home supplies and decorations, as well as running a large-scale shopping center which integrates home decoration design center, furniture and construction material market, furniture and construction material brand stores, construction material supermarket, and home supply market.
   * Valuation: **$5.78B**
   * Date joined: **2/12/2018**
   * Location: **Beijing @ China**
   * Industry: **Consumer & retail**
   * Select investors: **Alibaba Group, Boyu Capital, Borui Capital**
-* Lianjia - 
+* **Lianjia** - [lianjia.com](https://lianjia.com) - Lianjia offers an online platform for rental and second-hand real estate transactions.
   * Valuation: **$5.77B**
   * Date joined: **4/7/2016**
   * Location: **Beijing @ China**
   * Industry: **E-commerce & direct-to-consumer**
   * Select investors: **Tencent, Baidu, Huasheng Capital**
-* Airtable - 
+* **Airtable** - [airtable.com](https://airtable.com) - Airtable looks to turn what seems like just a normal spreadsheet into a robust database tool, hiding the complexity of what's happening in the background while those without any programming experience create intricate systems to get their work done. The company' tool, Blocks, is a set of mix-and-match operations like SMS and integrating maps that users can just drop into their systems.
   * Valuation: **$5.77B**
   * Date joined: **11/15/2018**
   * Location: **San Francisco @ United States**
   * Industry: **Internet software & services**
   * Select investors: **Caffeinated Capital, CRV, Founder Collective**
-* Vice Media - 
+* **Vice Media** - [vice.com](https://vice.com) - Vice Media operates an international network of digital channels, a television production studio, a magazine, a record label, an in-house creative services agency and a book-publishing division. The company's digital channels include The Creators Project, dedicated to the arts and creativity, Motherboard, covering cultural happenings in technology, and Noisey, a music discovery channel.
   * Valuation: **$5.7B**
   * Date joined: **4/2/2011**
   * Location: **Brooklyn @ United States**
   * Industry: **Internet software & services**
   * Select investors: **Technology Crossover Ventures, A&E Television Networks**
-* Hopin - 
+* **Hopin** - [hopin.com](https://hopin.com) - Hopin is an online events platform where people can create engaging virtual events that connect people around the globe. The platform's conference capabilities include stages, networking, breakout sessions (roundtables), sponsors, tickets, and analytics.
   * Valuation: **$5.65B**
   * Date joined: **11/10/2020**
   * Location: **London @ United Kingdom**
   * Industry: **Internet software & services**
   * Select investors: **Accel, Northzone Ventures, Institutional Venture Partners**
-* Revolut - 
+* **Revolut** - [revolut.com](https://revolut.com) - Revolut offers a personal money cloud, cutting hidden banking fees to zero. It allows users to exchange currencies at perfect interbank rates, send money through social networks and spend with a multi-currency card everywhere MasterCard is accepted. All this is done at the touch of a button, in a mobile application. The company's goal is to completely remove all hidden banking costs.
   * Valuation: **$5.5B**
   * Date joined: **4/26/2018**
   * Location: **London @ United Kingdom**
   * Industry: **Fintech**
   * Select investors: **index Ventures, DST Global, Ribbit Capital**
-* Zomato - 
+* **Zomato** - [zomato.com](https://zomato.com) - Zomato is an India-based online food and lifestyle portal that provides advertising, ratings, and reviews for restaurants.
   * Valuation: **$5.4B**
   * Date joined: **4/10/2015**
   * Location: **Gurugram @ India**
   * Industry: **Internet software & services**
   * Select investors: **Sequoia Capital, VY Capital**
-* Pony.ai - 
+* **Pony.ai** - [pony.ai](https://pony.ai) - Pony.ai aims to build reliable autonomous driving solutions. Pony.ai's fully self-developed software algorithms and infrastructure enable vehicles to perceive its surroundings, predict what others will do, and maneuver itself accordingly.
   * Valuation: **$5.3B**
   * Date joined: **7/11/2018**
   * Location: **Fremont @ United States**
   * Industry: **Artificial intelligence**
   * Select investors: **Sequoia Capital China, IDG Capital, DCM Ventures**
-* Trade Republic - 
+* **Trade Republic** - [traderepublic.com](https://traderepublic.com) - Trade Republic is a mobile-only and commission-free broker. The Trade Republic app provides a fast, mobile account opening, intuitive search, filter functions, and a personal timeline, as well as extended trading hours from 7:30AM to 11:00PM.
   * Valuation: **$5.3B**
   * Date joined: **5/20/2021**
   * Location: **Berlin @ Germany**
   * Industry: **Fintech**
   * Select investors: **Founders Fund. Accel, Creandum**
-* Blockchain.com - 
+* **Blockchain.com** - [blockchain.com](https://blockchain.com) - Blockchain.com is a software platform for digital assets and a bitcoin wallet provider, where users can authenticate and transact immediately and without intermediaries.
   * Valuation: **$5.2B**
   * Date joined: **2/17/2021**
   * Location: **London @ United Kingdom**
   * Industry: **Fintech**
   * Select investors: **Lightspeed Venture Partners, Google Ventures, Lakestar**
-* HashiCorp - 
+* **HashiCorp** - [hashicorp.com](https://hashicorp.com) - HashiCorp is an open-source software company. HashiCorp provides open source tools and commercial products that enable developers, operators and security professionals to provision, secure, run and connects distributed application infrastructure.
   * Valuation: **$5.1B**
   * Date joined: **11/1/2018**
   * Location: **San Francisco @ United States**
   * Industry: **Internet software & services**
   * Select investors: **Redpoint Ventures, True Ventures, Mayfield Fund**
-* OneTrust - 
+* **OneTrust** - [onetrust.com](https://onetrust.com) - OneTrust is a software platform for privacy professionals, is designed to operationalize data privacy compliance and Privacy by Design. The web-based console helps automate privacy impact assessments and data mapping, identify privacy risks, and enforce risk management and control activities in an integrated and agile approach. The result is the ability to demonstrate accountability and compliance with EU's data protection requirements, and globally across privacy jurisdictions and frameworks.
   * Valuation: **$5.1B**
   * Date joined: **7/11/2019**
   * Location: **Atlanta @ United States**
